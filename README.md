@@ -1,14 +1,5 @@
 # POS-MOE
 
-
-Author
-
-Jianying Chen
-
-gochenjianying@m.scnu.edu.cn
-
-June 11, 2021
-
 ## Data
 - Step 1: Download each tweet's dataset include text and images via this link
 
